@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220751810747175045/1270020063256121425/IMG_5837.jpg?ex=66b81c9a&is=66b6cb1a&hm=7fca9f28445ba50eedcff8df18b13b9f752e7575340031525186101ca1c4e7e9&" width="150" height="150" alt="Profile Picture" style="border-radius: 50%; border: 2px solid #000;">
   
   ## Hello, I'm Daniel 😁
   
